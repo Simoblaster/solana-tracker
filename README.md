@@ -1,6 +1,7 @@
 # 🎯 Solana DEX Transaction Tracker
 
 This project is a simplified version inspired by [HandiCat](https://github.com/DracoR22/handi-cat_wallet-tracker) by DracoR22. Thank you for the inspiration and the great work.
+This project was made during a coding session for my Youtube Channel AsmrCoding, here it is the [link of the video](https://www.youtube.com/watch?v=X0KbRvkvmtc&t), subscribe, leave a like and a comment for support the channel! Thanks 🙏 
 
 ## 📸 Demo
 
